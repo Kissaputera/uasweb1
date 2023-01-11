@@ -1,5 +1,5 @@
 .pic-content {
-    background: url(/assets/aquatope.jpg);
+    background: url(../assets/aquatope.jpg);
     background-size: cover;
     height: 100vh;
     background-position: center;  
