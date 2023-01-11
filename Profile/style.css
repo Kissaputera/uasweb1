@@ -1,0 +1,29 @@
+.pic-content {
+    background: url(/assets/aquatope.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;  
+}
+
+.top-content {
+    color: #fff;
+}
+    
+.top-content img {
+    width: 200px;
+    border: 10px solid #dc3545;
+}
+
+.top-content table {
+    color: #fff;
+}
+
+a.social-content {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #dc3545;
+    line-height: 40px;
+}
